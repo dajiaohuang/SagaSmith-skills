@@ -2,12 +2,22 @@
 
 [English](README.md) | [中文](README-cn.md)
 
-**Autonomous D&D 5e AI Dungeon Master** — 战役管理 · 模组生成 · 自主带团
+**自主 D&D 5e AI 地下城主** — 战役管理 · 模组生成 · 自主带团
 
 > *"规则书为经文，模组为地图，骰子为审判官。"*  
 > — 明萨拉·班瑞，SagaSmith 默认 DM
 
 SagaSmith 是一个跨平台 AI 跑团主持人 skill 包。它把完整的 D&D 5e DM 能力——战役生命周期管理、SRD 规则裁判、模组自动生成、角色创建与升级——打包为可安装的 AI agent skill，支持 NanoBot / OpenClaw / Hermes / Claude Code 等任意兼容 SKILL.md 标准的平台。
+
+---
+
+## 生态
+
+| 仓库 | 定位 |
+|------|------|
+| 📦 **SagaSmith-skill**（本仓库） | 全家桶 skill 插件包 |
+| 🎲 [SagaSmith-agent](https://github.com/dajiaohuang/SagaSmith-agent) | 完整 AI DM 运行时 |
+| ✍️ [SagaSmith-modulegen](https://github.com/dajiaohuang/SagaSmith-modulegen) | 独立模组生成器 |
 
 ---
 
@@ -125,13 +135,7 @@ SagaSmith-skill/
 
 ---
 
-## 生态
-
-| 仓库 | 定位 |
-|------|------|
-| 📦 **SagaSmith-skill**（本仓库） | 全家桶 skill 插件包 |
-| 🎲 [SagaSmith-agent](https://github.com/dajiaohuang/SagaSmith-agent) | 完整 AI DM 运行时 |
-| ✍️ [SagaSmith-modulegen](https://github.com/dajiaohuang/SagaSmith-modulegen) | 独立模组生成器 |
+## 注册表
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-sagasmith-blue)](https://clawhub.ai)
 [![skills.sh](https://img.shields.io/badge/skills.sh-dajiaohuang%2FSagaSmith--skill-green)](https://skills.sh)
