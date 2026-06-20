@@ -65,7 +65,7 @@ python -m <domain-cli> rules ingest-srd
 
 | 技能 | SKILL.md | 职责 |
 |------|----------|------|
-| 🎲 **dnd-dm** | [SKILL.md](skills/dnd-dm/SKILL.md) | 核心 DM 人格（always-on），规则裁判，战斗引擎，SRD 检索 |
+| 🎲 **dnd-dm** | [SKILL.md](skills/dnd-dm/SKILL.md) | 核心 DM 人格（always-on），规则裁判，战斗引擎，SRD 检索（参考自 [ackiles/dnd-dm-skill](https://github.com/ackiles/dnd-dm-skill)） |
 | 📋 **dnd-campaign-manager** | [SKILL.md](skills/dnd-campaign-manager/SKILL.md) | 战役生命周期，Snapshot 存档/读档，模组导入，USER.md 同步 |
 | ✍️ **dnd-module-gen** | [SKILL.md](skills/dnd-module-gen/SKILL.md) | 模组生成：one-shot → short → medium → long → sandbox，25 种范式 |
 
